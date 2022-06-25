@@ -1,3 +1,9 @@
  /* .react-datepicker__time, .react-datepicker__time-list{
     width: 400px !important;
 } */
+
+.react-datepicker__triangle{
+    position: absolute; 
+    left: 0px; transform: 
+    translate3d(35px, 0px, 0px) !important;
+}
